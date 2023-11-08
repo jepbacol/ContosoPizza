@@ -1,5 +1,5 @@
 namespace ContosoPizza;
-//Test 5
+//Test 6
 public class WeatherForecast
 {
     public DateTime Date { get; set; }
